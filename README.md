@@ -5,3 +5,5 @@ function.
 
 Its our first experience in working on project as a group yet we are doing our
 best to succeed on the project.
+
+Disclaimer: This shouldn't replace the printf function.
