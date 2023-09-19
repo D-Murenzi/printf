@@ -1,4 +1,4 @@
-#This is my first group project
+# This is my first group project
 
 we are working as a pair and we are focusing on developing a customized printf
 function.
